@@ -1,8 +1,8 @@
-#Temptation Framework
+#Framework
 
 ## Framework
 
-自己闲来无事写的一款php framework......
+简单版php框架
 
 ## Framework特点
 
